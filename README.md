@@ -4,6 +4,9 @@
 <p align="center">
   A fancy counter made just for fun
 </p>
+<p align="center">
+  View it live <a href="http://fancy-counter.s3-website-ap-southeast-1.amazonaws.com/" target="_blank">here!</a>
+</p>
 
 <img src="src/assets/images/cover.gif" width="100%" alt="Cover"/>
 
